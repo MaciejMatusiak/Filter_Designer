@@ -11,7 +11,7 @@ The input signal that was used for the filtration analysis is a signal composed 
 - Monotonic roll-off (smooth transition from passband to stopband)
 - Maximally flat magnitude response in the passband
 - Infinite cut off rate in the stopband.
-- 
+ 
 # Main characteristics of the FIR filter:
 - Fixed impulse response: The output response of an FIR filter to a delta input is finite in duration, hence the name "Finite Impulse Response".
 - Linear phase response: The phase response of an FIR filter is linear, meaning it does not distort the phase of signals passing through it.
